@@ -1111,57 +1111,47 @@ Just My Socks LA 洛杉矶节点（这个套餐不建议，很慢）：
 > [TG频道](https://t.me/thessrchannel)  
 > 奈飞Netflix：ipv6解锁部分线路可看非自制剧
 
-套餐：
-
-套餐
-
-线路
-
-流量
-
-价格
-
-客户端数目
-
-Pro
-
-专线
-
-200Gi/月起
-
-499.9 HKD/年
-
-6+
-
-Lite
-
-专线
-
-100G/月
-
-399.9 HKD/年
-
-6+
-
-Micro
-
-专线
-
-50G/月
-
-299.9 HKD/年
-
-6+
-
-Business
-
-专线
-
-1000G/月起
-
-2888/年起
-
-30+
+<table>
+<thead>
+<tr>
+<th>套餐</th>
+<th>线路</th>
+<th>流量</th>
+<th>价格</th>
+<th>客户端数目</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pro</td>
+<td>专线</td>
+<td>200Gi/月起</td>
+<td>499.9 HKD/年</td>
+<td>6+</td>
+</tr>
+<tr>
+<td>Lite</td>
+<td>专线</td>
+<td>100G/月</td>
+<td>399.9 HKD/年</td>
+<td>6+</td>
+</tr>
+<tr>
+<td>Micro</td>
+<td>专线</td>
+<td>50G/月</td>
+<td>299.9 HKD/年</td>
+<td>6+</td>
+</tr>
+<tr>
+<td>Business</td>
+<td>专线</td>
+<td>1000G/月起</td>
+<td>2888/年起</td>
+<td>30+</td>
+</tr>
+</tbody>
+</table>
 
 Pro套餐具体入口与落地信息
 
